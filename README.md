@@ -7,7 +7,7 @@ git clone https://github.com/rhildred/UX220Assignment2 .
 npm install
 npm start
 ```
-
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/CosmicMusashi/UX220-Lab-1)
 or surf to [https://diy-pwa.dev](https://diy-pwa.dev/~/gh/CosmicMusashi/UX220Assignment2). 
 
 ```bash
